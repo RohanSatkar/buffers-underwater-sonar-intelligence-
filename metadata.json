@@ -1,0 +1,6 @@
+{
+  "name": "BUFFERS - Underwater Sonar Intelligence",
+  "description": "AI-powered automated underwater marine debris and anomaly detection system using side-scan sonar imagery for disaster management (SIH26057).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
